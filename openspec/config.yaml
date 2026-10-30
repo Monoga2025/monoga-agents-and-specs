@@ -1,0 +1,111 @@
+strict_tdd: true
+context: |
+  glendale-ebikes-campaign-landing-1 is a Node.js/TypeScript ESM, React, Node.js/TypeScript, Next.js, Python project.
+  Detected markers: 00_Archivado\US_BIKE_Backup\_archive\backups\landing-pages\backups\landing-page-1-authorized-media-20260902-204135/package.json, 00_Archivado\US_BIKE_Backup\_archive\backups\landing-pages\backups\landing-page-1-authorized-media-20260902-204135/npm package manager, 00_Archivado\US_BIKE_Backup\marketing-ops\source\campana-redes\marketing\competitor-intelligence\.venv\Lib\site-packages\patchright\driver\package/package.json, 00_Archivado\US_BIKE_Backup\marketing-ops\source\campana-redes\marketing\competitor-intelligence\.venv\Lib\site-packages\patchright\driver\package/npm package manager, 00_Archivado\US_BIKE_Backup\marketing-ops\source\campana-redes\marketing\competitor-intelligence\.venv\Lib\site-packages\playwright\driver\package/package.json, 00_Archivado\US_BIKE_Backup\marketing-ops\source\campana-redes\marketing\competitor-intelligence\.venv\Lib\site-packages\playwright\driver\package/npm package manager, 00_Archivado\US_BIKE_Backup\paginaweb/package.json, 00_Archivado\US_BIKE_Backup\paginaweb/tsconfig.json, 00_Archivado\US_BIKE_Backup\paginaweb/npm package manager, 02_PROYECTOS_WEB\nextjs-postgresql-template/package.json, 02_PROYECTOS_WEB\nextjs-postgresql-template/tsconfig.json, 02_PROYECTOS_WEB\nextjs-postgresql-template/npm package manager, 02_PROYECTOS_WEB\wilmocol\core/package.json, 02_PROYECTOS_WEB\wilmocol\core/tsconfig.json, 02_PROYECTOS_WEB\wilmocol\core/npm package manager, trabajo\monoga\modulos\04_UNAB_INGENIERIA\UNAB OS\UNAB_OS_Plataforma/package.json, trabajo\monoga\modulos\04_UNAB_INGENIERIA\UNAB OS\UNAB_OS_Plataforma/tsconfig.json, trabajo\monoga\modulos\04_UNAB_INGENIERIA\UNAB OS\UNAB_OS_Plataforma/npm package manager, trabajo\monoga\modulos\04_UNAB_INGENIERIA\UNAB OS\UNAB_OS_Plataforma\mobile/package.json, trabajo\monoga\modulos\04_UNAB_INGENIERIA\UNAB OS\UNAB_OS_Plataforma\mobile/npm package manager, 08_MARAL\maral-os\.claude\worktrees\epic-stonebraker-ca04b3\backend/package.json, 08_MARAL\maral-os\.claude\worktrees\epic-stonebraker-ca04b3\backend/tsconfig.json, 08_MARAL\maral-os\.claude\worktrees\epic-stonebraker-ca04b3\backend/npm package manager, 08_MARAL\maral-os\.claude\worktrees\epic-stonebraker-ca04b3\frontend/package.json, 08_MARAL\maral-os\.claude\worktrees\epic-stonebraker-ca04b3\frontend/tsconfig.json, 08_MARAL\maral-os\.claude\worktrees\epic-stonebraker-ca04b3\frontend/npm package manager, 08_MARAL\maral-os\.claude\worktrees\vibrant-lederberg-1951bb\backend/package.json, 08_MARAL\maral-os\.claude\worktrees\vibrant-lederberg-1951bb\backend/tsconfig.json, 08_MARAL\maral-os\.claude\worktrees\vibrant-lederberg-1951bb\backend/npm package manager, 08_MARAL\maral-os\.claude\worktrees\vibrant-lederberg-1951bb\frontend/package.json, 08_MARAL\maral-os\.claude\worktrees\vibrant-lederberg-1951bb\frontend/tsconfig.json, 08_MARAL\maral-os\.claude\worktrees\vibrant-lederberg-1951bb\frontend/npm package manager, 08_MARAL\maral-os\backend/package.json, 08_MARAL\maral-os\backend/tsconfig.json, 08_MARAL\maral-os\backend/npm package manager, 08_MARAL\maral-os\frontend/package.json, 08_MARAL\maral-os\frontend/tsconfig.json, 08_MARAL\maral-os\frontend/npm package manager, 09_AUTO_REVENUE_ENGINE\dashboard/package.json, 09_AUTO_REVENUE_ENGINE\dashboard/npm package manager, 09_AUTO_REVENUE_ENGINE\db_and_scraper/package.json, 09_AUTO_REVENUE_ENGINE\db_and_scraper/tsconfig.json, 09_AUTO_REVENUE_ENGINE\db_and_scraper/npm package manager, 09_AUTO_REVENUE_ENGINE\orchestrator/package.json, 09_AUTO_REVENUE_ENGINE\orchestrator/tsconfig.json, 09_AUTO_REVENUE_ENGINE\orchestrator/npm package manager, 09_AUTO_REVENUE_ENGINE\sales_engine/package.json, 09_AUTO_REVENUE_ENGINE\sales_engine/tsconfig.json, 09_AUTO_REVENUE_ENGINE\sales_engine/npm package manager, 10_Mejorar_Voz_Monoga/package.json, 10_Mejorar_Voz_Monoga/npm package manager, trabajo/monoga/proyectos/growth-studio\ai_receptionist_core/package.json, trabajo/monoga/proyectos/growth-studio\ai_receptionist_core/tsconfig.json, trabajo/monoga/proyectos/growth-studio\ai_receptionist_core/npm package manager, Jarvis/package.json, Jarvis/tsconfig.json, Jarvis/npm package manager, Jarvis\plugins\jarvis-tools/package.json, Jarvis\plugins\jarvis-tools/tsconfig.json, Jarvis\plugins\jarvis-tools/npm package manager, monoga-erp/package.json, monoga-erp/tsconfig.json, monoga-erp/npm package manager.
+  Package managers: npm.
+  Additional evidence: Test-like files detected (194); examples: 00_Archivado\US_BIKE_Backup\_archive\worktree-untracked\2026-09-09\airpas-campaign\backups\airpas-before-orange-campaign-template-20260906-001955\page.test.ts, 00_Archivado\US_BIKE_Backup\_archive\worktree-untracked\2026-09-09\airpas-campaign\backups\airpas-section-parity-20260906-103928\page.test.ts, 00_Archivado\US_BIKE_Backup\marketing-ops\source\campana-redes\marketing\competitor-intelligence\.venv\Lib\site-packages\litellm\proxy\common_utils\custom_openapi_spec.py, 00_Archivado\US_BIKE_Backup\marketing-ops\source\campana-redes\marketing\competitor-intelligence\.venv\Lib\site-packages\networkx\algorithms\assortativity\tests\base_test.py, 00_Archivado\US_BIKE_Backup\marketing-ops\source\campana-redes\marketing\competitor-intelligence\.venv\Lib\site-packages\patchright\driver\package\lib\tools\skills\playwright-component-testing\references\gallery-spec.md.
+  Primary test command: cd 00_Archivado\US_BIKE_Backup\paginaweb && npm test.
+  Unit tests: Vitest (cd 00_Archivado\US_BIKE_Backup\paginaweb && npm test); Vitest (cd trabajo\monoga\modulos\04_UNAB_INGENIERIA\UNAB OS\UNAB_OS_Plataforma && npm test); package script (cd 09_AUTO_REVENUE_ENGINE\dashboard && npm test); Vitest (cd 09_AUTO_REVENUE_ENGINE\db_and_scraper && npm test); Vitest (cd 09_AUTO_REVENUE_ENGINE\orchestrator && npm run vitest); package script (cd 09_AUTO_REVENUE_ENGINE\sales_engine && npm test); Vitest (cd trabajo/monoga/proyectos/growth-studio\ai_receptionist_core && npm test); package script (cd Jarvis && npm test); Vitest (cd monoga-erp && npm test); pytest (pytest).
+  Integration tests: none.
+  E2E tests: Playwright (cd trabajo\monoga\modulos\04_UNAB_INGENIERIA\UNAB OS\UNAB_OS_Plataforma && npx playwright test).
+rules:
+  proposal:
+    require_problem_statement: true
+  spec:
+    require_acceptance_criteria: true
+  design:
+    require_tradeoffs: true
+  tasks:
+    protect_review_workload: true
+  apply:
+    test_command: "cd 00_Archivado\\US_BIKE_Backup\\paginaweb && npm test"
+  verify:
+    test_command: "cd 00_Archivado\\US_BIKE_Backup\\paginaweb && npm test"
+testing:
+  detected: "2026-10-03"
+  runner:
+    command: "cd 00_Archivado\\US_BIKE_Backup\\paginaweb && npm test"
+    framework: "Vitest"
+  layers:
+    unit: "Vitest, Vitest, package script, Vitest, Vitest, package script, Vitest, package script, Vitest, pytest"
+    integration: ""
+    e2e: "Playwright"
+  commands:
+    unit:
+      - scope: "00_Archivado\\US_BIKE_Backup\\paginaweb"
+        command: "cd 00_Archivado\\US_BIKE_Backup\\paginaweb && npm test"
+        framework: "Vitest"
+      - scope: "04_UNAB_INGENIERIA\\UNAB OS\\UNAB_OS_Plataforma"
+        command: "cd 04_UNAB_INGENIERIA\\UNAB OS\\UNAB_OS_Plataforma && npm test"
+        framework: "Vitest"
+      - scope: "trabajo\\monoga\\modulos\\09_AUTO_REVENUE_ENGINE\\dashboard"
+        command: "cd trabajo\\monoga\\modulos\\09_AUTO_REVENUE_ENGINE\\dashboard && npm test"
+        framework: "package script"
+      - scope: "trabajo\\monoga\\modulos\\09_AUTO_REVENUE_ENGINE\\db_and_scraper"
+        command: "cd trabajo\\monoga\\modulos\\09_AUTO_REVENUE_ENGINE\\db_and_scraper && npm test"
+        framework: "Vitest"
+      - scope: "trabajo\\monoga\\modulos\\09_AUTO_REVENUE_ENGINE\\orchestrator"
+        command: "cd trabajo\\monoga\\modulos\\09_AUTO_REVENUE_ENGINE\\orchestrator && npm run vitest"
+        framework: "Vitest"
+      - scope: "trabajo\\monoga\\modulos\\09_AUTO_REVENUE_ENGINE\\sales_engine"
+        command: "cd trabajo\\monoga\\modulos\\09_AUTO_REVENUE_ENGINE\\sales_engine && npm test"
+        framework: "package script"
+      - scope: "trabajo/monoga/proyectos/growth-studio\\ai_receptionist_core"
+        command: "cd trabajo/monoga/proyectos/growth-studio\\ai_receptionist_core && npm test"
+        framework: "Vitest"
+      - scope: "Jarvis"
+        command: "cd Jarvis && npm test"
+        framework: "package script"
+      - scope: "monoga-erp"
+        command: "cd monoga-erp && npm test"
+        framework: "Vitest"
+      - scope: "."
+        command: "pytest"
+        framework: "pytest"
+    integration:
+      []
+    e2e:
+      - scope: "04_UNAB_INGENIERIA\\UNAB OS\\UNAB_OS_Plataforma"
+        command: "cd 04_UNAB_INGENIERIA\\UNAB OS\\UNAB_OS_Plataforma && npx playwright test"
+        framework: "Playwright"
+  coverage:
+    command: "cd 00_Archivado\\US_BIKE_Backup\\paginaweb && npm run test:coverage"
+    commands:
+      - scope: "00_Archivado\\US_BIKE_Backup\\paginaweb"
+        command: "cd 00_Archivado\\US_BIKE_Backup\\paginaweb && npm run test:coverage"
+        framework: "coverage"
+quality:
+  lint: "cd 00_Archivado\\US_BIKE_Backup\\paginaweb && npm run lint"
+  lint_commands:
+    - scope: "00_Archivado\\US_BIKE_Backup\\paginaweb"
+      command: "cd 00_Archivado\\US_BIKE_Backup\\paginaweb && npm run lint"
+      framework: "linter"
+    - scope: "trabajo\\monoga\\modulos\\02_PROYECTOS_WEB\\nextjs-postgresql-template"
+      command: "cd trabajo\\monoga\\modulos\\02_PROYECTOS_WEB\\nextjs-postgresql-template && npm run lint"
+      framework: "linter"
+    - scope: "04_UNAB_INGENIERIA\\UNAB OS\\UNAB_OS_Plataforma"
+      command: "cd 04_UNAB_INGENIERIA\\UNAB OS\\UNAB_OS_Plataforma && npm run lint"
+      framework: "linter"
+    - scope: "Jarvis"
+      command: "cd Jarvis && npm run lint"
+      framework: "linter"
+  typecheck: "cd 00_Archivado\\US_BIKE_Backup\\paginaweb && npm run typecheck"
+  typecheck_commands:
+    - scope: "00_Archivado\\US_BIKE_Backup\\paginaweb"
+      command: "cd 00_Archivado\\US_BIKE_Backup\\paginaweb && npm run typecheck"
+      framework: "type checker"
+    - scope: "trabajo\\monoga\\modulos\\02_PROYECTOS_WEB\\nextjs-postgresql-template"
+      command: "cd trabajo\\monoga\\modulos\\02_PROYECTOS_WEB\\nextjs-postgresql-template && npm run typecheck"
+      framework: "type checker"
+    - scope: "04_UNAB_INGENIERIA\\UNAB OS\\UNAB_OS_Plataforma"
+      command: "cd 04_UNAB_INGENIERIA\\UNAB OS\\UNAB_OS_Plataforma && npm run typecheck"
+      framework: "type checker"
+    - scope: "Jarvis"
+      command: "cd Jarvis && npm run typecheck"
+      framework: "type checker"
+    - scope: "monoga-erp"
+      command: "cd monoga-erp && npm run typecheck"
+      framework: "type checker"
+  format: ""
+  format_commands:
+    []
